@@ -26,8 +26,8 @@ from sys import platform
 district = ["571"] # Global variable.
 debug = True     # !debug will log to belowfile. Can be used for cronjobs
 logfile = "vaccine.log" # Change if debug = False
-#age = 18 # min_age 18
-age = 45 #min_age 45
+age = 18 # min_age 18
+#age = 45 #min_age 45
 # -------------------------------------
 # IMP: CHANGE ABOVE VARIABLS AS PER USE
 # -------------------------------------
