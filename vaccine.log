@@ -1,0 +1,442 @@
+
+2021-05-12 18:39:02,596 - INFO - ****
+2021-05-12 18:39:02,596 - INFO - ('13/05/2021  Total Slots Available[Age:18]: ', '298')
+2021-05-12 18:39:02,596 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:298 , Vaccine:COVAXIN             
+
+2021-05-12 18:39:02,596 - INFO - ****
+2021-05-12 18:39:05,540 - INFO - ****
+2021-05-12 18:39:05,540 - INFO - ('14/05/2021  Total Slots Available[Age:18]: ', '298')
+2021-05-12 18:39:05,540 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:298 , Vaccine:COVAXIN             
+
+2021-05-12 18:39:05,540 - INFO - ****
+2021-05-12 18:39:08,615 - INFO - ****
+2021-05-12 18:39:08,615 - INFO - ('15/05/2021  Total Slots Available[Age:18]: ', '297')
+2021-05-12 18:39:08,615 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:297 , Vaccine:COVAXIN             
+
+2021-05-12 18:39:08,615 - INFO - ****
+2021-05-12 18:39:11,487 - INFO - ('16/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:39:11,590 - INFO - ('17/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:39:11,951 - INFO - ****
+2021-05-12 18:39:11,951 - INFO - ('18/05/2021  Total Slots Available[Age:18]: ', '296')
+2021-05-12 18:39:11,951 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:296 , Vaccine:COVAXIN             
+
+2021-05-12 18:39:11,951 - INFO - ****
+2021-05-12 18:39:54,942 - INFO - ('12/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:39:55,059 - INFO - ****
+2021-05-12 18:39:55,059 - INFO - ('13/05/2021  Total Slots Available[Age:18]: ', '298')
+2021-05-12 18:39:55,059 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:298 , Vaccine:COVAXIN             
+
+2021-05-12 18:39:55,059 - INFO - ****
+2021-05-12 18:39:55,191 - INFO - ****
+2021-05-12 18:39:55,191 - INFO - ('14/05/2021  Total Slots Available[Age:18]: ', '298')
+2021-05-12 18:39:55,191 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:298 , Vaccine:COVAXIN             
+
+2021-05-12 18:39:55,191 - INFO - ****
+2021-05-12 18:39:55,305 - INFO - ****
+2021-05-12 18:39:55,306 - INFO - ('15/05/2021  Total Slots Available[Age:18]: ', '297')
+2021-05-12 18:39:55,306 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:297 , Vaccine:COVAXIN             
+
+2021-05-12 18:39:55,306 - INFO - ****
+2021-05-12 18:39:55,410 - INFO - ('16/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:39:55,539 - INFO - ('17/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:39:55,639 - INFO - ****
+2021-05-12 18:39:55,640 - INFO - ('18/05/2021  Total Slots Available[Age:18]: ', '296')
+2021-05-12 18:39:55,640 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:296 , Vaccine:COVAXIN             
+
+2021-05-12 18:39:55,640 - INFO - ****
+2021-05-12 18:40:01,141 - INFO - ('12/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:40:01,288 - INFO - ****
+2021-05-12 18:40:01,289 - INFO - ('13/05/2021  Total Slots Available[Age:18]: ', '298')
+2021-05-12 18:40:01,289 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:298 , Vaccine:COVAXIN             
+
+2021-05-12 18:40:01,289 - INFO - ****
+2021-05-12 18:40:01,440 - INFO - ****
+2021-05-12 18:40:01,440 - INFO - ('14/05/2021  Total Slots Available[Age:18]: ', '298')
+2021-05-12 18:40:01,440 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:298 , Vaccine:COVAXIN             
+
+2021-05-12 18:40:01,440 - INFO - ****
+2021-05-12 18:40:01,556 - INFO - ****
+2021-05-12 18:40:01,556 - INFO - ('15/05/2021  Total Slots Available[Age:18]: ', '297')
+2021-05-12 18:40:01,556 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:297 , Vaccine:COVAXIN             
+
+2021-05-12 18:40:01,556 - INFO - ****
+2021-05-12 18:40:02,206 - INFO - ****
+2021-05-12 18:40:02,206 - INFO - ('16/05/2021  Total Slots Available[Age:18]: ', '148')
+2021-05-12 18:40:02,206 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:1   , Vaccine:COVAXIN             
+2  . Hospital Name: MGM COVAXIN                             , Availability:147 , Vaccine:COVAXIN             
+
+2021-05-12 18:40:02,206 - INFO - ****
+2021-05-12 18:40:02,590 - INFO - ('17/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:40:02,719 - INFO - ****
+2021-05-12 18:40:02,719 - INFO - ('18/05/2021  Total Slots Available[Age:18]: ', '296')
+2021-05-12 18:40:02,719 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:296 , Vaccine:COVAXIN             
+
+2021-05-12 18:40:02,719 - INFO - ****
+2021-05-12 18:40:21,962 - INFO - ('12/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:40:22,111 - INFO - ****
+2021-05-12 18:40:22,112 - INFO - ('13/05/2021  Total Slots Available[Age:18]: ', '298')
+2021-05-12 18:40:22,112 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:298 , Vaccine:COVAXIN             
+
+2021-05-12 18:40:22,112 - INFO - ****
+2021-05-12 18:40:24,366 - INFO - ****
+2021-05-12 18:40:24,366 - INFO - ('14/05/2021  Total Slots Available[Age:18]: ', '298')
+2021-05-12 18:40:24,366 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:298 , Vaccine:COVAXIN             
+
+2021-05-12 18:40:24,366 - INFO - ****
+2021-05-12 18:40:26,643 - INFO - ****
+2021-05-12 18:40:26,643 - INFO - ('15/05/2021  Total Slots Available[Age:18]: ', '297')
+2021-05-12 18:40:26,643 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:297 , Vaccine:COVAXIN             
+
+2021-05-12 18:40:26,643 - INFO - ****
+2021-05-12 18:40:28,890 - INFO - ****
+2021-05-12 18:40:28,890 - INFO - ('16/05/2021  Total Slots Available[Age:18]: ', '148')
+2021-05-12 18:40:28,890 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:1   , Vaccine:COVAXIN             
+2  . Hospital Name: MGM COVAXIN                             , Availability:147 , Vaccine:COVAXIN             
+
+2021-05-12 18:40:28,890 - INFO - ****
+2021-05-12 18:40:31,160 - INFO - ('17/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:40:31,292 - INFO - ****
+2021-05-12 18:40:31,292 - INFO - ('18/05/2021  Total Slots Available[Age:18]: ', '296')
+2021-05-12 18:40:31,292 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:296 , Vaccine:COVAXIN             
+
+2021-05-12 18:40:31,292 - INFO - ****
+2021-05-12 18:41:01,393 - INFO - ('12/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:41:01,545 - INFO - ****
+2021-05-12 18:41:01,545 - INFO - ('13/05/2021  Total Slots Available[Age:18]: ', '298')
+2021-05-12 18:41:01,545 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:298 , Vaccine:COVAXIN             
+
+2021-05-12 18:41:01,545 - INFO - ****
+2021-05-12 18:41:04,514 - INFO - ****
+2021-05-12 18:41:04,514 - INFO - ('14/05/2021  Total Slots Available[Age:18]: ', '298')
+2021-05-12 18:41:04,514 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:298 , Vaccine:COVAXIN             
+
+2021-05-12 18:41:04,514 - INFO - ****
+2021-05-12 18:41:07,454 - INFO - ****
+2021-05-12 18:41:07,454 - INFO - ('15/05/2021  Total Slots Available[Age:18]: ', '297')
+2021-05-12 18:41:07,454 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:297 , Vaccine:COVAXIN             
+
+2021-05-12 18:41:07,454 - INFO - ****
+2021-05-12 18:41:10,443 - INFO - ****
+2021-05-12 18:41:10,443 - INFO - ('16/05/2021  Total Slots Available[Age:18]: ', '148')
+2021-05-12 18:41:10,443 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:1   , Vaccine:COVAXIN             
+2  . Hospital Name: MGM COVAXIN                             , Availability:147 , Vaccine:COVAXIN             
+
+2021-05-12 18:41:10,443 - INFO - ****
+2021-05-12 18:41:13,298 - INFO - ('17/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:41:13,400 - INFO - ****
+2021-05-12 18:41:13,400 - INFO - ('18/05/2021  Total Slots Available[Age:18]: ', '296')
+2021-05-12 18:41:13,400 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:296 , Vaccine:COVAXIN             
+
+2021-05-12 18:41:13,400 - INFO - ****
+2021-05-12 18:42:01,015 - INFO - ('12/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:42:01,163 - INFO - ****
+2021-05-12 18:42:01,163 - INFO - ('13/05/2021  Total Slots Available[Age:18]: ', '298')
+2021-05-12 18:42:01,163 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:298 , Vaccine:COVAXIN             
+
+2021-05-12 18:42:01,163 - INFO - ****
+2021-05-12 18:42:04,042 - INFO - ****
+2021-05-12 18:42:04,042 - INFO - ('14/05/2021  Total Slots Available[Age:18]: ', '298')
+2021-05-12 18:42:04,042 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:298 , Vaccine:COVAXIN             
+
+2021-05-12 18:42:04,042 - INFO - ****
+2021-05-12 18:42:07,044 - INFO - ****
+2021-05-12 18:42:07,044 - INFO - ('15/05/2021  Total Slots Available[Age:18]: ', '297')
+2021-05-12 18:42:07,044 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:297 , Vaccine:COVAXIN             
+
+2021-05-12 18:42:07,044 - INFO - ****
+2021-05-12 18:42:10,042 - INFO - ****
+2021-05-12 18:42:10,042 - INFO - ('16/05/2021  Total Slots Available[Age:18]: ', '148')
+2021-05-12 18:42:10,042 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:1   , Vaccine:COVAXIN             
+2  . Hospital Name: MGM COVAXIN                             , Availability:147 , Vaccine:COVAXIN             
+
+2021-05-12 18:42:10,042 - INFO - ****
+2021-05-12 18:42:12,841 - INFO - ('17/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:42:12,941 - INFO - ****
+2021-05-12 18:42:12,941 - INFO - ('18/05/2021  Total Slots Available[Age:18]: ', '296')
+2021-05-12 18:42:12,941 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:296 , Vaccine:COVAXIN             
+
+2021-05-12 18:42:12,941 - INFO - ****
+2021-05-12 18:43:01,295 - INFO - ('12/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:43:01,439 - INFO - ****
+2021-05-12 18:43:01,439 - INFO - ('13/05/2021  Total Slots Available[Age:18]: ', '298')
+2021-05-12 18:43:01,439 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:298 , Vaccine:COVAXIN             
+
+2021-05-12 18:43:01,439 - INFO - ****
+2021-05-12 18:43:04,345 - INFO - ****
+2021-05-12 18:43:04,345 - INFO - ('14/05/2021  Total Slots Available[Age:18]: ', '298')
+2021-05-12 18:43:04,345 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:298 , Vaccine:COVAXIN             
+
+2021-05-12 18:43:04,345 - INFO - ****
+2021-05-12 18:43:07,302 - INFO - ****
+2021-05-12 18:43:07,302 - INFO - ('15/05/2021  Total Slots Available[Age:18]: ', '297')
+2021-05-12 18:43:07,302 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:297 , Vaccine:COVAXIN             
+
+2021-05-12 18:43:07,302 - INFO - ****
+2021-05-12 18:43:10,292 - INFO - ****
+2021-05-12 18:43:10,292 - INFO - ('16/05/2021  Total Slots Available[Age:18]: ', '148')
+2021-05-12 18:43:10,292 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:1   , Vaccine:COVAXIN             
+2  . Hospital Name: MGM COVAXIN                             , Availability:147 , Vaccine:COVAXIN             
+
+2021-05-12 18:43:10,293 - INFO - ****
+2021-05-12 18:43:13,404 - INFO - ('17/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:43:13,498 - INFO - ****
+2021-05-12 18:43:13,498 - INFO - ('18/05/2021  Total Slots Available[Age:18]: ', '296')
+2021-05-12 18:43:13,498 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:296 , Vaccine:COVAXIN             
+
+2021-05-12 18:43:13,498 - INFO - ****
+2021-05-12 18:44:00,809 - INFO - ('12/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:44:00,943 - INFO - ****
+2021-05-12 18:44:00,943 - INFO - ('13/05/2021  Total Slots Available[Age:18]: ', '298')
+2021-05-12 18:44:00,943 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:298 , Vaccine:COVAXIN             
+
+2021-05-12 18:44:00,943 - INFO - ****
+2021-05-12 18:44:03,794 - INFO - ****
+2021-05-12 18:44:03,794 - INFO - ('14/05/2021  Total Slots Available[Age:18]: ', '298')
+2021-05-12 18:44:03,794 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:298 , Vaccine:COVAXIN             
+
+2021-05-12 18:44:03,794 - INFO - ****
+2021-05-12 18:44:06,758 - INFO - ****
+2021-05-12 18:44:06,758 - INFO - ('15/05/2021  Total Slots Available[Age:18]: ', '297')
+2021-05-12 18:44:06,759 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:297 , Vaccine:COVAXIN             
+
+2021-05-12 18:44:06,759 - INFO - ****
+2021-05-12 18:44:09,643 - INFO - ****
+2021-05-12 18:44:09,643 - INFO - ('16/05/2021  Total Slots Available[Age:18]: ', '148')
+2021-05-12 18:44:09,643 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:1   , Vaccine:COVAXIN             
+2  . Hospital Name: MGM COVAXIN                             , Availability:147 , Vaccine:COVAXIN             
+
+2021-05-12 18:44:09,643 - INFO - ****
+2021-05-12 18:44:12,443 - INFO - ('17/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:44:12,643 - INFO - ('18/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:45:02,268 - INFO - ****
+2021-05-12 18:45:02,268 - INFO - ('12/05/2021  Total Slots Available[Age:18]: ', '1')
+2021-05-12 18:45:02,268 - INFO - 1  . Hospital Name: Apollo Speciality Hospitals             , Availability:1   , Vaccine:COVISHIELD          
+
+2021-05-12 18:45:02,268 - INFO - ****
+2021-05-12 18:45:05,553 - INFO - ****
+2021-05-12 18:45:05,553 - INFO - ('13/05/2021  Total Slots Available[Age:18]: ', '1')
+2021-05-12 18:45:05,553 - INFO - 1  . Hospital Name: Apollo Speciality Hospitals             , Availability:1   , Vaccine:COVISHIELD          
+
+2021-05-12 18:45:05,554 - INFO - ****
+2021-05-12 18:45:09,056 - INFO - ('14/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:45:09,491 - INFO - ('15/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:45:09,804 - INFO - ('16/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:45:09,910 - INFO - ('17/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:45:10,039 - INFO - ('18/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:46:00,384 - INFO - ****
+2021-05-12 18:46:00,385 - INFO - ('12/05/2021  Total Slots Available[Age:18]: ', '1')
+2021-05-12 18:46:00,385 - INFO - 1  . Hospital Name: Apollo Speciality Hospitals             , Availability:1   , Vaccine:COVISHIELD          
+
+2021-05-12 18:46:00,385 - INFO - ****
+2021-05-12 18:46:03,273 - INFO - ****
+2021-05-12 18:46:03,273 - INFO - ('13/05/2021  Total Slots Available[Age:18]: ', '1')
+2021-05-12 18:46:03,273 - INFO - 1  . Hospital Name: Apollo Speciality Hospitals             , Availability:1   , Vaccine:COVISHIELD          
+
+2021-05-12 18:46:03,273 - INFO - ****
+2021-05-12 18:46:06,140 - INFO - ('14/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:46:06,251 - INFO - ('15/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:46:06,329 - INFO - ('16/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:46:06,406 - INFO - ('17/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:46:06,499 - INFO - ('18/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:47:01,040 - INFO - ****
+2021-05-12 18:47:01,040 - INFO - ('12/05/2021  Total Slots Available[Age:18]: ', '1')
+2021-05-12 18:47:01,040 - INFO - 1  . Hospital Name: Apollo Speciality Hospitals             , Availability:1   , Vaccine:COVISHIELD          
+
+2021-05-12 18:47:01,040 - INFO - ****
+2021-05-12 18:47:03,928 - INFO - ****
+2021-05-12 18:47:03,928 - INFO - ('13/05/2021  Total Slots Available[Age:18]: ', '1')
+2021-05-12 18:47:03,928 - INFO - 1  . Hospital Name: Apollo Speciality Hospitals             , Availability:1   , Vaccine:COVISHIELD          
+
+2021-05-12 18:47:03,928 - INFO - ****
+2021-05-12 18:47:06,807 - INFO - ('14/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:47:06,904 - INFO - ('15/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:47:07,008 - INFO - ('16/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:47:07,095 - INFO - ('17/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:47:07,177 - INFO - ('18/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:48:00,881 - INFO - ****
+2021-05-12 18:48:00,881 - INFO - ('12/05/2021  Total Slots Available[Age:18]: ', '1')
+2021-05-12 18:48:00,881 - INFO - 1  . Hospital Name: Apollo Speciality Hospitals             , Availability:1   , Vaccine:COVISHIELD          
+
+2021-05-12 18:48:00,881 - INFO - ****
+2021-05-12 18:48:03,686 - INFO - ****
+2021-05-12 18:48:03,686 - INFO - ('13/05/2021  Total Slots Available[Age:18]: ', '1')
+2021-05-12 18:48:03,686 - INFO - 1  . Hospital Name: Apollo Speciality Hospitals             , Availability:1   , Vaccine:COVISHIELD          
+
+2021-05-12 18:48:03,686 - INFO - ****
+2021-05-12 18:48:06,930 - INFO - ('14/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:48:07,050 - INFO - ('15/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:48:07,153 - INFO - ('16/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:48:07,233 - INFO - ('17/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:48:07,442 - INFO - ('18/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:49:01,039 - INFO - ****
+2021-05-12 18:49:01,039 - INFO - ('12/05/2021  Total Slots Available[Age:18]: ', '1')
+2021-05-12 18:49:01,039 - INFO - 1  . Hospital Name: Apollo Speciality Hospitals             , Availability:1   , Vaccine:COVISHIELD          
+
+2021-05-12 18:49:01,039 - INFO - ****
+2021-05-12 18:49:04,102 - INFO - ****
+2021-05-12 18:49:04,102 - INFO - ('13/05/2021  Total Slots Available[Age:18]: ', '1')
+2021-05-12 18:49:04,102 - INFO - 1  . Hospital Name: Apollo Speciality Hospitals             , Availability:1   , Vaccine:COVISHIELD          
+
+2021-05-12 18:49:04,102 - INFO - ****
+2021-05-12 18:49:07,000 - INFO - ('14/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:49:07,109 - INFO - ('15/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:49:07,236 - INFO - ('16/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:49:07,657 - INFO - ('17/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:49:07,755 - INFO - ('18/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:50:02,902 - INFO - ****
+2021-05-12 18:50:02,903 - INFO - ('12/05/2021  Total Slots Available[Age:18]: ', '1')
+2021-05-12 18:50:02,903 - INFO - 1  . Hospital Name: Apollo Speciality Hospitals             , Availability:1   , Vaccine:COVISHIELD          
+
+2021-05-12 18:50:02,903 - INFO - ****
+2021-05-12 18:50:06,463 - INFO - ('13/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:50:06,613 - INFO - ('14/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:50:06,740 - INFO - ('15/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:50:06,866 - INFO - ('16/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:50:06,990 - INFO - ('17/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:50:07,241 - INFO - ('18/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:51:01,595 - INFO - ****
+2021-05-12 18:51:01,595 - INFO - ('12/05/2021  Total Slots Available[Age:18]: ', '1')
+2021-05-12 18:51:01,595 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:1   , Vaccine:COVAXIN             
+
+2021-05-12 18:51:01,595 - INFO - ****
+2021-05-12 18:51:04,561 - INFO - ('13/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:51:04,910 - INFO - ****
+2021-05-12 18:51:04,910 - INFO - ('14/05/2021  Total Slots Available[Age:18]: ', '203')
+2021-05-12 18:51:04,911 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:1   , Vaccine:COVAXIN             
+2  . Hospital Name: MGM COVAXIN                             , Availability:202 , Vaccine:COVAXIN             
+
+2021-05-12 18:51:04,911 - INFO - ****
+2021-05-12 18:51:08,591 - INFO - ****
+2021-05-12 18:51:08,591 - INFO - ('15/05/2021  Total Slots Available[Age:18]: ', '181')
+2021-05-12 18:51:08,591 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:1   , Vaccine:COVAXIN             
+2  . Hospital Name: MGM COVAXIN                             , Availability:180 , Vaccine:COVAXIN             
+
+2021-05-12 18:51:08,591 - INFO - ****
+2021-05-12 18:51:11,720 - INFO - ****
+2021-05-12 18:51:11,721 - INFO - ('16/05/2021  Total Slots Available[Age:18]: ', '169')
+2021-05-12 18:51:11,721 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:1   , Vaccine:COVAXIN             
+2  . Hospital Name: MGM COVAXIN                             , Availability:168 , Vaccine:COVAXIN             
+
+2021-05-12 18:51:11,721 - INFO - ****
+2021-05-12 18:51:14,692 - INFO - ('17/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:51:14,804 - INFO - ('18/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:52:04,504 - INFO - ****
+2021-05-12 18:52:04,505 - INFO - ('12/05/2021  Total Slots Available[Age:18]: ', '1')
+2021-05-12 18:52:04,505 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:1   , Vaccine:COVAXIN             
+
+2021-05-12 18:52:04,505 - INFO - ****
+2021-05-12 18:52:07,460 - INFO - ('13/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:52:07,609 - INFO - ****
+2021-05-12 18:52:07,609 - INFO - ('14/05/2021  Total Slots Available[Age:18]: ', '203')
+2021-05-12 18:52:07,610 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:1   , Vaccine:COVAXIN             
+2  . Hospital Name: MGM COVAXIN                             , Availability:202 , Vaccine:COVAXIN             
+
+2021-05-12 18:52:07,610 - INFO - ****
+2021-05-12 18:52:10,504 - INFO - ****
+2021-05-12 18:52:10,504 - INFO - ('15/05/2021  Total Slots Available[Age:18]: ', '181')
+2021-05-12 18:52:10,504 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:1   , Vaccine:COVAXIN             
+2  . Hospital Name: MGM COVAXIN                             , Availability:180 , Vaccine:COVAXIN             
+
+2021-05-12 18:52:10,504 - INFO - ****
+2021-05-12 18:52:13,289 - INFO - ****
+2021-05-12 18:52:13,289 - INFO - ('16/05/2021  Total Slots Available[Age:18]: ', '169')
+2021-05-12 18:52:13,289 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:1   , Vaccine:COVAXIN             
+2  . Hospital Name: MGM COVAXIN                             , Availability:168 , Vaccine:COVAXIN             
+
+2021-05-12 18:52:13,289 - INFO - ****
+2021-05-12 18:52:16,393 - INFO - ('17/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:52:16,519 - INFO - ('18/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:53:01,746 - INFO - ****
+2021-05-12 18:53:01,747 - INFO - ('12/05/2021  Total Slots Available[Age:18]: ', '1')
+2021-05-12 18:53:01,747 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:1   , Vaccine:COVAXIN             
+
+2021-05-12 18:53:01,747 - INFO - ****
+2021-05-12 18:53:04,793 - INFO - ('13/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:53:04,955 - INFO - ****
+2021-05-12 18:53:04,955 - INFO - ('14/05/2021  Total Slots Available[Age:18]: ', '203')
+2021-05-12 18:53:04,955 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:1   , Vaccine:COVAXIN             
+2  . Hospital Name: MGM COVAXIN                             , Availability:202 , Vaccine:COVAXIN             
+
+2021-05-12 18:53:04,956 - INFO - ****
+2021-05-12 18:53:07,862 - INFO - ****
+2021-05-12 18:53:07,863 - INFO - ('15/05/2021  Total Slots Available[Age:18]: ', '181')
+2021-05-12 18:53:07,863 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:1   , Vaccine:COVAXIN             
+2  . Hospital Name: MGM COVAXIN                             , Availability:180 , Vaccine:COVAXIN             
+
+2021-05-12 18:53:07,863 - INFO - ****
+2021-05-12 18:53:10,995 - INFO - ****
+2021-05-12 18:53:10,998 - INFO - ('16/05/2021  Total Slots Available[Age:18]: ', '169')
+2021-05-12 18:53:10,998 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:1   , Vaccine:COVAXIN             
+2  . Hospital Name: MGM COVAXIN                             , Availability:168 , Vaccine:COVAXIN             
+
+2021-05-12 18:53:10,998 - INFO - ****
+2021-05-12 18:53:14,143 - INFO - ('17/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:53:14,252 - INFO - ('18/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:54:00,944 - INFO - ****
+2021-05-12 18:54:00,945 - INFO - ('12/05/2021  Total Slots Available[Age:18]: ', '1')
+2021-05-12 18:54:00,945 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:1   , Vaccine:COVAXIN             
+
+2021-05-12 18:54:00,945 - INFO - ****
+2021-05-12 18:54:03,796 - INFO - ('13/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:54:04,016 - INFO - ****
+2021-05-12 18:54:04,017 - INFO - ('14/05/2021  Total Slots Available[Age:18]: ', '203')
+2021-05-12 18:54:04,017 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:1   , Vaccine:COVAXIN             
+2  . Hospital Name: MGM COVAXIN                             , Availability:202 , Vaccine:COVAXIN             
+
+2021-05-12 18:54:04,017 - INFO - ****
+2021-05-12 18:54:06,758 - INFO - ****
+2021-05-12 18:54:06,758 - INFO - ('15/05/2021  Total Slots Available[Age:18]: ', '181')
+2021-05-12 18:54:06,758 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:1   , Vaccine:COVAXIN             
+2  . Hospital Name: MGM COVAXIN                             , Availability:180 , Vaccine:COVAXIN             
+
+2021-05-12 18:54:06,759 - INFO - ****
+2021-05-12 18:54:09,544 - INFO - ****
+2021-05-12 18:54:09,545 - INFO - ('16/05/2021  Total Slots Available[Age:18]: ', '169')
+2021-05-12 18:54:09,546 - INFO - 1  . Hospital Name: MGM COVAXIN                             , Availability:1   , Vaccine:COVAXIN             
+2  . Hospital Name: MGM COVAXIN                             , Availability:168 , Vaccine:COVAXIN             
+
+2021-05-12 18:54:09,546 - INFO - ****
+2021-05-12 18:54:12,454 - INFO - ('17/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 18:54:12,569 - INFO - ('18/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 19:15:12,408 - INFO - ('12/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 19:15:12,762 - INFO - ('13/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 19:15:13,141 - INFO - ('14/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 19:15:13,436 - INFO - ('15/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 19:15:13,670 - INFO - ('16/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 19:15:13,883 - INFO - ('17/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 19:15:14,112 - INFO - ('18/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 19:16:46,884 - INFO - ('12/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 19:16:46,995 - INFO - ('13/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 19:16:47,089 - INFO - ('14/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 19:16:47,199 - INFO - ('15/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 19:16:47,275 - INFO - ('16/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 19:16:47,354 - INFO - ('17/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 19:16:47,449 - INFO - ('18/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 19:16:56,528 - INFO - ('12/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 19:16:57,404 - INFO - ('13/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 19:16:58,176 - INFO - ('14/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 19:16:58,294 - INFO - ('15/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 19:16:58,460 - INFO - ('16/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 19:16:58,545 - INFO - ('17/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 19:16:58,773 - INFO - ('18/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 19:18:26,001 - INFO - ('12/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 19:18:26,103 - INFO - ('13/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 19:18:26,197 - INFO - ('14/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 19:18:26,290 - INFO - ('15/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 19:18:26,374 - INFO - ('16/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 19:18:26,460 - INFO - ('17/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 19:18:26,554 - INFO - ('18/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 19:18:28,562 - INFO - ('12/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 19:18:28,666 - INFO - ('13/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 19:18:28,808 - INFO - ('14/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 19:18:28,908 - INFO - ('15/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 19:18:28,989 - INFO - ('16/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 19:18:29,128 - INFO - ('17/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 19:18:29,212 - INFO - ('18/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 19:18:30,171 - INFO - ('12/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 19:18:30,269 - INFO - ('13/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 19:18:30,501 - INFO - ('14/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 19:18:30,618 - INFO - ('15/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 19:18:30,702 - INFO - ('16/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 19:18:30,831 - INFO - ('17/05/2021  Total Slots Available[Age:18]: ', '0')
+2021-05-12 19:18:30,919 - INFO - ('18/05/2021  Total Slots Available[Age:18]: ', '0')

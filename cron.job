@@ -1,0 +1,3 @@
+crontab -e
+
+* * * * * /usr/bin/python3 /Users/vratnaku/Downloads/new_exports/vacMe/vaccine.py >> /tmp/cron.out
