@@ -25,9 +25,9 @@ from sys import platform
 # -------------------------------------
 district = ["571"] # Global variable.
 debug = True     # !debug will log to belowfile. Can be used for cronjobs
-logfile = "/Users/vratnaku/Downloads/new_exports/vacMe/vaccine.log" # Change if debug = False
-age = 18 # min_age 18
-#age = 45 #min_age 45
+logfile = "vaccine.log" # Change if debug = False
+#age = 18 # min_age 18
+age = 45 #min_age 45
 # -------------------------------------
 # IMP: CHANGE ABOVE VARIABLS AS PER USE
 # -------------------------------------
@@ -138,4 +138,5 @@ if __name__ == '__main__':
 
     for d in district:
         for i in range(7):
-            getVaccineTimeslots(today + timedelta(days=i), d)
+            today = today + timedelta(days=i)
+            getVaccineTimeslots(today, d)

@@ -1,0 +1,398 @@
+2021-05-15 18:22:30,494 - INFO - ****
+2021-05-15 18:22:30,494 - INFO - ('15/05/2021 [District:571]  Total Slots Available[Age:45]: ', '1704')
+2021-05-15 18:22:30,494 - INFO - 
+1  . Hospital Name[600010]: Govt Kilpauk MCH                        , Availability:28  , Vaccine:COVISHIELD          
+2  . Hospital Name[600081]: Jeeva Nagar South UPHC                  , Availability:10  , Vaccine:COVISHIELD          
+3  . Hospital Name[600081]: Jeeva Nagar South UPHC                  , Availability:6   , Vaccine:COVISHIELD          
+4  . Hospital Name[600021]: Sanjeevarayanpet- UCHC                  , Availability:49  , Vaccine:COVISHIELD          
+5  . Hospital Name[600035]: Apollo Speciality Hospitals             , Availability:84  , Vaccine:COVISHIELD          
+6  . Hospital Name[600024]: Vadapalani UCHC                         , Availability:10  , Vaccine:COVISHIELD          
+7  . Hospital Name[600019]: Thiruvottiyur GH 1                      , Availability:50  , Vaccine:COVISHIELD          
+8  . Hospital Name[600021]: RK NAGAR UCHC - HCW                     , Availability:49  , Vaccine:COVISHIELD          
+9  . Hospital Name[600021]: RK NAGAR UCHC - HCW                     , Availability:10  , Vaccine:COVISHIELD          
+10 . Hospital Name[600021]: RK NAGAR UCHC - HCW                     , Availability:30  , Vaccine:COVISHIELD          
+11 . Hospital Name[600083]: Ashok Nagar UPHC -                      , Availability:2   , Vaccine:COVISHIELD          
+12 . Hospital Name[600011]: Sharma Nagar UPHC                       , Availability:6   , Vaccine:COVISHIELD          
+13 . Hospital Name[600068]: Manali UPHC 1                           , Availability:50  , Vaccine:COVISHIELD          
+14 . Hospital Name[600068]: Manali UPHC 1                           , Availability:7   , Vaccine:COVISHIELD          
+15 . Hospital Name[600068]: Manali UPHC 1                           , Availability:27  , Vaccine:COVISHIELD          
+16 . Hospital Name[600068]: Manali UPHC 1                           , Availability:47  , Vaccine:COVISHIELD          
+17 . Hospital Name[600068]: Manali UPHC 1                           , Availability:50  , Vaccine:COVISHIELD          
+18 . Hospital Name[600014]: Mirsahibpet UCHC                        , Availability:5   , Vaccine:COVISHIELD          
+19 . Hospital Name[600014]: Mirsahibpet UCHC                        , Availability:3   , Vaccine:COVISHIELD          
+20 . Hospital Name[600014]: Mirsahibpet UCHC                        , Availability:9   , Vaccine:COVISHIELD          
+21 . Hospital Name[600014]: Mirsahibpet UCHC                        , Availability:5   , Vaccine:COVISHIELD          
+22 . Hospital Name[600014]: Mirsahibpet UCHC                        , Availability:7   , Vaccine:COVISHIELD          
+23 . Hospital Name[600029]: Aminjikarai East UPHC                   , Availability:25  , Vaccine:COVISHIELD          
+24 . Hospital Name[600050]: Padi UCHC                               , Availability:1   , Vaccine:COVISHIELD          
+25 . Hospital Name[600083]: Saidapet West UPHC                      , Availability:3   , Vaccine:COVISHIELD          
+26 . Hospital Name[600083]: Saidapet West UPHC                      , Availability:8   , Vaccine:COVISHIELD          
+27 . Hospital Name[600001]: Amman Koil South UPHC                   , Availability:9   , Vaccine:COVISHIELD          
+28 . Hospital Name[600001]: Stanley Medical Clg Hospital            , Availability:44  , Vaccine:COVISHIELD          
+29 . Hospital Name[600079]: P K Garden UPHC                         , Availability:9   , Vaccine:COVISHIELD          
+30 . Hospital Name[600005]: Pudupet UPHC 1                          , Availability:50  , Vaccine:COVISHIELD          
+31 . Hospital Name[600081]: Tondiarpet UPHC                         , Availability:10  , Vaccine:COVISHIELD          
+32 . Hospital Name[600081]: Tondiarpet UPHC                         , Availability:9   , Vaccine:COVISHIELD          
+33 . Hospital Name[600060]: Madavaram UCHC - HCW                    , Availability:48  , Vaccine:COVISHIELD          
+34 . Hospital Name[600060]: Madavaram UCHC - HCW                    , Availability:9   , Vaccine:COVISHIELD          
+35 . Hospital Name[600060]: Madavaram UCHC - HCW                    , Availability:7   , Vaccine:COVISHIELD          
+36 . Hospital Name[600118]: Vivekanantha Nagar Uphc 1               , Availability:49  , Vaccine:COVISHIELD          
+37 . Hospital Name[600118]: Vivekanantha Nagar Uphc 1               , Availability:10  , Vaccine:COVISHIELD          
+38 . Hospital Name[600019]: Thaangal UPHC                           , Availability:10  , Vaccine:COVISHIELD          
+39 . Hospital Name[600057]: Kathivakkam UPHC 1                      , Availability:46  , Vaccine:COVISHIELD          
+40 . Hospital Name[600083]: Nallankuppam UPHC                       , Availability:5   , Vaccine:COVISHIELD          
+41 . Hospital Name[600083]: Nallankuppam UPHC                       , Availability:10  , Vaccine:COVISHIELD          
+42 . Hospital Name[600081]: CDH Tondiarpet                          , Availability:50  , Vaccine:COVISHIELD          
+43 . Hospital Name[600081]: CDH Tondiarpet                          , Availability:9   , Vaccine:COVISHIELD          
+44 . Hospital Name[600033]: Kumaran Nagar UPHC                      , Availability:1   , Vaccine:COVISHIELD          
+45 . Hospital Name[600033]: Kumaran Nagar UPHC                      , Availability:9   , Vaccine:COVISHIELD          
+46 . Hospital Name[600039]: Vyasarpadi North UPHC                   , Availability:10  , Vaccine:COVISHIELD          
+47 . Hospital Name[600039]: Vyasarpadi North UPHC                   , Availability:9   , Vaccine:COVISHIELD          
+48 . Hospital Name[600011]: Perambur Uphc 1                         , Availability:2   , Vaccine:COVISHIELD          
+49 . Hospital Name[600019]: Thiruvottiyur UCHC                      , Availability:9   , Vaccine:COVISHIELD          
+50 . Hospital Name[600007]: Perumalpet UPHC                         , Availability:4   , Vaccine:COVISHIELD          
+51 . Hospital Name[600031]: MANGALAPURAM VOLUNTARY                  , Availability:7   , Vaccine:COVISHIELD          
+52 . Hospital Name[600015]: Saidapet UPHC                           , Availability:8   , Vaccine:COVISHIELD          
+53 . Hospital Name[600019]: Sathangadu UPHC 1                       , Availability:50  , Vaccine:COVISHIELD          
+54 . Hospital Name[600019]: Kuppam UPHC 1                           , Availability:50  , Vaccine:COVISHIELD          
+55 . Hospital Name[600003]: RGGH                                    , Availability:47  , Vaccine:COVISHIELD          
+56 . Hospital Name[600092]: Koyambedu UPHC                          , Availability:6   , Vaccine:COVISHIELD          
+57 . Hospital Name[600107]: Nerkundram II UPHC                      , Availability:1   , Vaccine:COVISHIELD          
+58 . Hospital Name[600107]: Nerkundram II UPHC                      , Availability:2   , Vaccine:COVISHIELD          
+59 . Hospital Name[600053]: Athipet UPHC                            , Availability:1   , Vaccine:COVISHIELD          
+60 . Hospital Name[600053]: Athipet UPHC                            , Availability:1   , Vaccine:COVISHIELD          
+61 . Hospital Name[600057]: Ernavoor UPHC                           , Availability:10  , Vaccine:COVISHIELD          
+62 . Hospital Name[600010]: P S Nagar UPHC                          , Availability:44  , Vaccine:COVISHIELD          
+63 . Hospital Name[600097]: KANNAGI NAGAR UPHC                      , Availability:1   , Vaccine:COVISHIELD          
+64 . Hospital Name[600021]: Korukkupet Uphc 1                       , Availability:49  , Vaccine:COVISHIELD          
+65 . Hospital Name[600021]: Korukkupet Uphc 1                       , Availability:8   , Vaccine:COVISHIELD          
+66 . Hospital Name[600092]: Virugambakkam UPHC                      , Availability:6   , Vaccine:COVISHIELD          
+67 . Hospital Name[600060]: Kannabiran UPHC 1                       , Availability:50  , Vaccine:COVISHIELD          
+68 . Hospital Name[600060]: Kannabiran UPHC 1                       , Availability:10  , Vaccine:COVISHIELD          
+69 . Hospital Name[600118]: Kodungaiyur Uphc 1                      , Availability:50  , Vaccine:COVISHIELD          
+70 . Hospital Name[600118]: Kodungaiyur Uphc 1                      , Availability:8   , Vaccine:COVISHIELD          
+71 . Hospital Name[600026]: Vadapalani West UPHC                    , Availability:4   , Vaccine:COVISHIELD          
+72 . Hospital Name[600017]: Thiyagaraya Nagar UPHC                  , Availability:2   , Vaccine:COVISHIELD          
+73 . Hospital Name[600093]: Dhasarathapuram UPHC                    , Availability:5   , Vaccine:COVISHIELD          
+74 . Hospital Name[600004]: MYLAPORE UPHC - AMS2                    , Availability:1   , Vaccine:COVISHIELD          
+75 . Hospital Name[600083]: Jafferkhanpet UPHC                      , Availability:10  , Vaccine:COVISHIELD          
+76 . Hospital Name[600066]: Puzhal UPHC 1                           , Availability:48  , Vaccine:COVISHIELD          
+77 . Hospital Name[600066]: Puzhal UPHC 1                           , Availability:9   , Vaccine:COVISHIELD          
+78 . Hospital Name[600039]: Elango Nagar UPHC 1                     , Availability:9   , Vaccine:COVISHIELD          
+79 . Hospital Name[600017]: SM NAGAR UPHC                           , Availability:1   , Vaccine:COVISHIELD          
+80 . Hospital Name[600078]: Nesapakkam UPHC                         , Availability:6   , Vaccine:COVISHIELD          
+81 . Hospital Name[600081]: Apollo Hospital Tondiarpet              , Availability:97  , Vaccine:COVISHIELD          
+82 . Hospital Name[600094]: Periyar Nagar UPHC                      , Availability:10  , Vaccine:COVISHIELD          
+83 . Hospital Name[600094]: Periyar Nagar UPHC                      , Availability:10  , Vaccine:COVISHIELD          
+84 . Hospital Name[600094]: Periyar Nagar UPHC                      , Availability:10  , Vaccine:COVISHIELD          
+85 . Hospital Name[600094]: Periyar Nagar UPHC                      , Availability:10  , Vaccine:COVISHIELD          
+86 . Hospital Name[600094]: Periyar Nagar UPHC                      , Availability:8   , Vaccine:COVISHIELD          
+87 . Hospital Name[600015]: Saidapet EOC                            , Availability:10  , Vaccine:COVISHIELD          
+88 . Hospital Name[600081]: V R Nagar UPHC                          , Availability:10  , Vaccine:COVISHIELD          
+89 . Hospital Name[600081]: V O C Nagar UPHC                        , Availability:9   , Vaccine:COVISHIELD          
+90 . Hospital Name[600015]: Govt. Hospital Saidapet                 , Availability:9   , Vaccine:COVISHIELD          
+91 . Hospital Name[600035]: C I T Nagar UPHC                        , Availability:8   , Vaccine:COVISHIELD          
+
+2021-05-15 18:22:30,494 - INFO - ****
+2021-05-15 18:22:32,653 - INFO - ****
+2021-05-15 18:22:32,653 - INFO - ('16/05/2021 [District:571]  Total Slots Available[Age:45]: ', '797')
+2021-05-15 18:22:32,653 - INFO - 
+1  . Hospital Name[600078]: Nesapakkam UPHC                         , Availability:6   , Vaccine:COVISHIELD          
+2  . Hospital Name[600021]: Korukkupet UPHC                         , Availability:8   , Vaccine:COVISHIELD          
+3  . Hospital Name[600050]: Padi UCHC - COVISHIELD                  , Availability:1   , Vaccine:COVISHIELD          
+4  . Hospital Name[600081]: Apollo Hospital Tondiarpet              , Availability:97  , Vaccine:COVISHIELD          
+5  . Hospital Name[600094]: Periyar Nagar UPHC                      , Availability:10  , Vaccine:COVISHIELD          
+6  . Hospital Name[600094]: Periyar Nagar UPHC                      , Availability:10  , Vaccine:COVISHIELD          
+7  . Hospital Name[600094]: Periyar Nagar UPHC                      , Availability:10  , Vaccine:COVISHIELD          
+8  . Hospital Name[600094]: Periyar Nagar UPHC                      , Availability:10  , Vaccine:COVISHIELD          
+9  . Hospital Name[600094]: Periyar Nagar UPHC                      , Availability:8   , Vaccine:COVISHIELD          
+10 . Hospital Name[600035]: Apollo Speciality Hospitals             , Availability:84  , Vaccine:COVISHIELD          
+11 . Hospital Name[600011]: Sharma Nagar UPHC                       , Availability:6   , Vaccine:COVISHIELD          
+12 . Hospital Name[600081]: Tondiarpet UPHC                         , Availability:9   , Vaccine:COVISHIELD          
+13 . Hospital Name[600015]: Saidapet UPHC                           , Availability:8   , Vaccine:COVISHIELD          
+14 . Hospital Name[600024]: Vadapalani UCHC                         , Availability:10  , Vaccine:COVISHIELD          
+15 . Hospital Name[600015]: Saidapet EOC                            , Availability:10  , Vaccine:COVISHIELD          
+16 . Hospital Name[600083]: Jafferkhanpet UPHC                      , Availability:10  , Vaccine:COVISHIELD          
+17 . Hospital Name[600092]: Koyambedu UPHC                          , Availability:6   , Vaccine:COVISHIELD          
+18 . Hospital Name[600026]: Vadapalani West UPHC                    , Availability:4   , Vaccine:COVISHIELD          
+19 . Hospital Name[600083]: Nallankuppam UPHC                       , Availability:10  , Vaccine:COVISHIELD          
+20 . Hospital Name[600107]: Nerkundram II UPHC                      , Availability:1   , Vaccine:COVISHIELD          
+21 . Hospital Name[600107]: Nerkundram II UPHC                      , Availability:2   , Vaccine:COVISHIELD          
+22 . Hospital Name[600021]: R K Nagar UCHC                          , Availability:10  , Vaccine:COVISHIELD          
+23 . Hospital Name[600021]: R K Nagar UCHC                          , Availability:30  , Vaccine:COVISHIELD          
+24 . Hospital Name[600021]: R K Nagar UCHC                          , Availability:42  , Vaccine:COVISHIELD          
+25 . Hospital Name[600060]: Madhavaram UCHC                         , Availability:9   , Vaccine:COVISHIELD          
+26 . Hospital Name[600060]: Madhavaram UCHC                         , Availability:7   , Vaccine:COVISHIELD          
+27 . Hospital Name[600060]: Madhavaram UCHC                         , Availability:31  , Vaccine:COVISHIELD          
+28 . Hospital Name[600053]: Athipet UPHC                            , Availability:1   , Vaccine:COVISHIELD          
+29 . Hospital Name[600068]: Manali UPHC 1                           , Availability:7   , Vaccine:COVISHIELD          
+30 . Hospital Name[600068]: Manali UPHC 1                           , Availability:27  , Vaccine:COVISHIELD          
+31 . Hospital Name[600068]: Manali UPHC 1                           , Availability:47  , Vaccine:COVISHIELD          
+32 . Hospital Name[600068]: Manali UPHC 1                           , Availability:50  , Vaccine:COVISHIELD          
+33 . Hospital Name[600068]: Manali UPHC 1                           , Availability:47  , Vaccine:COVISHIELD          
+34 . Hospital Name[600081]: V R Nagar UPHC                          , Availability:10  , Vaccine:COVISHIELD          
+35 . Hospital Name[600092]: Virugambakkam UPHC                      , Availability:6   , Vaccine:COVISHIELD          
+36 . Hospital Name[600118]: Vivekanantha Nagar Uphc 1               , Availability:10  , Vaccine:COVISHIELD          
+37 . Hospital Name[600081]: V O C Nagar UPHC                        , Availability:9   , Vaccine:COVISHIELD          
+38 . Hospital Name[600083]: Ashok Nagar UPHC -                      , Availability:2   , Vaccine:COVISHIELD          
+39 . Hospital Name[600011]: Perambur East UPHC                      , Availability:2   , Vaccine:COVISHIELD          
+40 . Hospital Name[600033]: Kumaran Nagar UPHC                      , Availability:9   , Vaccine:COVISHIELD          
+41 . Hospital Name[600118]: Kodungaiyur I UPHC                      , Availability:8   , Vaccine:COVISHIELD          
+42 . Hospital Name[600081]: CDH Tondiarpet                          , Availability:9   , Vaccine:COVISHIELD          
+43 . Hospital Name[600083]: Saidapet West UPHC                      , Availability:8   , Vaccine:COVISHIELD          
+44 . Hospital Name[600081]: Jeeva Nagar South UPHC                  , Availability:6   , Vaccine:COVISHIELD          
+45 . Hospital Name[600060]: Kannabiran UPHC                         , Availability:10  , Vaccine:COVISHIELD          
+46 . Hospital Name[600039]: Elango Nagar UPHC                       , Availability:9   , Vaccine:COVISHIELD          
+47 . Hospital Name[600017]: Thiyagaraya Nagar UPHC                  , Availability:2   , Vaccine:COVISHIELD          
+48 . Hospital Name[600014]: Mirsahibpet UCHC                        , Availability:5   , Vaccine:COVISHIELD          
+49 . Hospital Name[600014]: Mirsahibpet UCHC                        , Availability:3   , Vaccine:COVISHIELD          
+50 . Hospital Name[600014]: Mirsahibpet UCHC                        , Availability:9   , Vaccine:COVISHIELD          
+51 . Hospital Name[600014]: Mirsahibpet UCHC                        , Availability:5   , Vaccine:COVISHIELD          
+52 . Hospital Name[600014]: Mirsahibpet UCHC                        , Availability:7   , Vaccine:COVISHIELD          
+53 . Hospital Name[600066]: Puzhal UPHC                             , Availability:9   , Vaccine:COVISHIELD          
+54 . Hospital Name[600015]: Govt. Hospital Saidapet                 , Availability:9   , Vaccine:COVISHIELD          
+55 . Hospital Name[600093]: Dhasarathapuram UPHC                    , Availability:5   , Vaccine:COVISHIELD          
+56 . Hospital Name[600035]: C I T Nagar UPHC                        , Availability:8   , Vaccine:COVISHIELD          
+57 . Hospital Name[600039]: Vyasarpadi North UPHC                   , Availability:9   , Vaccine:COVISHIELD          
+
+2021-05-15 18:22:32,653 - INFO - ****
+2021-05-15 18:22:34,788 - INFO - ****
+2021-05-15 18:22:34,788 - INFO - ('17/05/2021 [District:571]  Total Slots Available[Age:45]: ', '618')
+2021-05-15 18:22:34,788 - INFO - 
+1  . Hospital Name[600094]: Periyar Nagar UPHC                      , Availability:10  , Vaccine:COVISHIELD          
+2  . Hospital Name[600094]: Periyar Nagar UPHC                      , Availability:10  , Vaccine:COVISHIELD          
+3  . Hospital Name[600094]: Periyar Nagar UPHC                      , Availability:10  , Vaccine:COVISHIELD          
+4  . Hospital Name[600094]: Periyar Nagar UPHC                      , Availability:8   , Vaccine:COVISHIELD          
+5  . Hospital Name[600014]: Mirsahibpet UCHC                        , Availability:3   , Vaccine:COVISHIELD          
+6  . Hospital Name[600014]: Mirsahibpet UCHC                        , Availability:9   , Vaccine:COVISHIELD          
+7  . Hospital Name[600014]: Mirsahibpet UCHC                        , Availability:5   , Vaccine:COVISHIELD          
+8  . Hospital Name[600014]: Mirsahibpet UCHC                        , Availability:7   , Vaccine:COVISHIELD          
+9  . Hospital Name[600053]: Athipet UPHC                            , Availability:1   , Vaccine:COVISHIELD          
+10 . Hospital Name[600050]: Padi UCHC - COVISHIELD                  , Availability:1   , Vaccine:COVISHIELD          
+11 . Hospital Name[600107]: Nerkundram II UPHC                      , Availability:1   , Vaccine:COVISHIELD          
+12 . Hospital Name[600107]: Nerkundram II UPHC                      , Availability:2   , Vaccine:COVISHIELD          
+13 . Hospital Name[600068]: Manali UPHC 1                           , Availability:27  , Vaccine:COVISHIELD          
+14 . Hospital Name[600068]: Manali UPHC 1                           , Availability:47  , Vaccine:COVISHIELD          
+15 . Hospital Name[600068]: Manali UPHC 1                           , Availability:50  , Vaccine:COVISHIELD          
+16 . Hospital Name[600068]: Manali UPHC 1                           , Availability:47  , Vaccine:COVISHIELD          
+17 . Hospital Name[600068]: Manali UPHC 1                           , Availability:48  , Vaccine:COVISHIELD          
+18 . Hospital Name[600021]: RK NAGAR UCHC - HCW                     , Availability:30  , Vaccine:COVISHIELD          
+19 . Hospital Name[600021]: RK NAGAR UCHC - HCW                     , Availability:42  , Vaccine:COVISHIELD          
+20 . Hospital Name[600021]: RK NAGAR UCHC - HCW                     , Availability:44  , Vaccine:COVISHIELD          
+21 . Hospital Name[600060]: Madavaram UCHC - HCW                    , Availability:7   , Vaccine:COVISHIELD          
+22 . Hospital Name[600060]: Madavaram UCHC - HCW                    , Availability:31  , Vaccine:COVISHIELD          
+23 . Hospital Name[600060]: Madavaram UCHC - HCW                    , Availability:48  , Vaccine:COVISHIELD          
+24 . Hospital Name[600102]: Manali New Town Uphc 1                  , Availability:45  , Vaccine:COVISHIELD          
+25 . Hospital Name[600066]: Puzhal UPHC 1                           , Availability:20  , Vaccine:COVISHIELD          
+26 . Hospital Name[600060]: Madhavaram UPHC 1                       , Availability:40  , Vaccine:COVISHIELD          
+27 . Hospital Name[600060]: Kannabiran UPHC 1                       , Availability:24  , Vaccine:COVISHIELD          
+28 . Hospital Name[600099]: Lakshmipuram UPHC 1                     , Availability:1   , Vaccine:COVISHIELD          
+
+2021-05-15 18:22:34,788 - INFO - ****
+2021-05-15 18:22:36,947 - INFO - ****
+2021-05-15 18:22:36,947 - INFO - ('18/05/2021 [District:571]  Total Slots Available[Age:45]: ', '884')
+2021-05-15 18:22:36,948 - INFO - 
+1  . Hospital Name[600053]: Athipet UPHC                            , Availability:1   , Vaccine:COVISHIELD          
+2  . Hospital Name[600050]: Padi UCHC                               , Availability:1   , Vaccine:COVISHIELD          
+3  . Hospital Name[600014]: Mirsahibpet UCHC                        , Availability:9   , Vaccine:COVISHIELD          
+4  . Hospital Name[600014]: Mirsahibpet UCHC                        , Availability:5   , Vaccine:COVISHIELD          
+5  . Hospital Name[600014]: Mirsahibpet UCHC                        , Availability:7   , Vaccine:COVISHIELD          
+6  . Hospital Name[600107]: Nerkundram II UPHC                      , Availability:1   , Vaccine:COVISHIELD          
+7  . Hospital Name[600107]: Nerkundram II UPHC                      , Availability:2   , Vaccine:COVISHIELD          
+8  . Hospital Name[600094]: Periyar Nagar UPHC                      , Availability:10  , Vaccine:COVISHIELD          
+9  . Hospital Name[600094]: Periyar Nagar UPHC                      , Availability:10  , Vaccine:COVISHIELD          
+10 . Hospital Name[600094]: Periyar Nagar UPHC                      , Availability:8   , Vaccine:COVISHIELD          
+11 . Hospital Name[600068]: Manali UPHC 1                           , Availability:27  , Vaccine:COVISHIELD          
+12 . Hospital Name[600068]: Manali UPHC 1                           , Availability:47  , Vaccine:COVISHIELD          
+13 . Hospital Name[600068]: Manali UPHC 1                           , Availability:50  , Vaccine:COVISHIELD          
+14 . Hospital Name[600068]: Manali UPHC 1                           , Availability:47  , Vaccine:COVISHIELD          
+15 . Hospital Name[600068]: Manali UPHC 1                           , Availability:48  , Vaccine:COVISHIELD          
+16 . Hospital Name[600068]: Manali UPHC 1                           , Availability:45  , Vaccine:COVISHIELD          
+17 . Hospital Name[600021]: RK NAGAR UCHC - HCW                     , Availability:30  , Vaccine:COVISHIELD          
+18 . Hospital Name[600021]: RK NAGAR UCHC - HCW                     , Availability:42  , Vaccine:COVISHIELD          
+19 . Hospital Name[600021]: RK NAGAR UCHC - HCW                     , Availability:44  , Vaccine:COVISHIELD          
+20 . Hospital Name[600021]: RK NAGAR UCHC - HCW                     , Availability:50  , Vaccine:COVISHIELD          
+21 . Hospital Name[600060]: Madavaram UCHC - HCW                    , Availability:7   , Vaccine:COVISHIELD          
+22 . Hospital Name[600060]: Madavaram UCHC - HCW                    , Availability:31  , Vaccine:COVISHIELD          
+23 . Hospital Name[600060]: Madavaram UCHC - HCW                    , Availability:48  , Vaccine:COVISHIELD          
+24 . Hospital Name[600060]: Madavaram UCHC - HCW                    , Availability:45  , Vaccine:COVISHIELD          
+25 . Hospital Name[600102]: Manali New Town Uphc 1                  , Availability:45  , Vaccine:COVISHIELD          
+26 . Hospital Name[600102]: Manali New Town Uphc 1                  , Availability:48  , Vaccine:COVISHIELD          
+27 . Hospital Name[600066]: Puzhal UPHC 1                           , Availability:20  , Vaccine:COVISHIELD          
+28 . Hospital Name[600066]: Puzhal UPHC 1                           , Availability:47  , Vaccine:COVISHIELD          
+29 . Hospital Name[600060]: Madhavaram UPHC 1                       , Availability:40  , Vaccine:COVISHIELD          
+30 . Hospital Name[600060]: Madhavaram UPHC 1                       , Availability:44  , Vaccine:COVISHIELD          
+31 . Hospital Name[600060]: Kannabiran UPHC 1                       , Availability:24  , Vaccine:COVISHIELD          
+32 . Hospital Name[600099]: Lakshmipuram UPHC 1                     , Availability:1   , Vaccine:COVISHIELD          
+
+2021-05-15 18:22:36,948 - INFO - ****
+2021-05-15 18:22:39,082 - INFO - ****
+2021-05-15 18:22:39,082 - INFO - ('19/05/2021 [District:571]  Total Slots Available[Age:45]: ', '1174')
+2021-05-15 18:22:39,082 - INFO - 
+1  . Hospital Name[600050]: Padi UCHC - COVISHIELD                  , Availability:1   , Vaccine:COVISHIELD          
+2  . Hospital Name[600068]: Manali UPHC 1                           , Availability:27  , Vaccine:COVISHIELD          
+3  . Hospital Name[600068]: Manali UPHC 1                           , Availability:47  , Vaccine:COVISHIELD          
+4  . Hospital Name[600068]: Manali UPHC 1                           , Availability:50  , Vaccine:COVISHIELD          
+5  . Hospital Name[600068]: Manali UPHC 1                           , Availability:47  , Vaccine:COVISHIELD          
+6  . Hospital Name[600068]: Manali UPHC 1                           , Availability:48  , Vaccine:COVISHIELD          
+7  . Hospital Name[600068]: Manali UPHC 1                           , Availability:45  , Vaccine:COVISHIELD          
+8  . Hospital Name[600094]: Periyar Nagar UPHC                      , Availability:10  , Vaccine:COVISHIELD          
+9  . Hospital Name[600094]: Periyar Nagar UPHC                      , Availability:8   , Vaccine:COVISHIELD          
+10 . Hospital Name[600014]: Mirsahibpet UCHC                        , Availability:5   , Vaccine:COVISHIELD          
+11 . Hospital Name[600014]: Mirsahibpet UCHC                        , Availability:7   , Vaccine:COVISHIELD          
+12 . Hospital Name[600107]: Nerkundram II UPHC                      , Availability:2   , Vaccine:COVISHIELD          
+13 . Hospital Name[600053]: Athipet UPHC                            , Availability:1   , Vaccine:COVISHIELD          
+14 . Hospital Name[600021]: RK NAGAR UCHC - HCW                     , Availability:30  , Vaccine:COVISHIELD          
+15 . Hospital Name[600021]: RK NAGAR UCHC - HCW                     , Availability:42  , Vaccine:COVISHIELD          
+16 . Hospital Name[600021]: RK NAGAR UCHC - HCW                     , Availability:44  , Vaccine:COVISHIELD          
+17 . Hospital Name[600021]: RK NAGAR UCHC - HCW                     , Availability:50  , Vaccine:COVISHIELD          
+18 . Hospital Name[600021]: RK NAGAR UCHC - HCW                     , Availability:50  , Vaccine:COVISHIELD          
+19 . Hospital Name[600060]: Madavaram UCHC - HCW                    , Availability:7   , Vaccine:COVISHIELD          
+20 . Hospital Name[600060]: Madavaram UCHC - HCW                    , Availability:31  , Vaccine:COVISHIELD          
+21 . Hospital Name[600060]: Madavaram UCHC - HCW                    , Availability:48  , Vaccine:COVISHIELD          
+22 . Hospital Name[600060]: Madavaram UCHC - HCW                    , Availability:45  , Vaccine:COVISHIELD          
+23 . Hospital Name[600060]: Madavaram UCHC - HCW                    , Availability:46  , Vaccine:COVISHIELD          
+24 . Hospital Name[600102]: Manali New Town Uphc 1                  , Availability:45  , Vaccine:COVISHIELD          
+25 . Hospital Name[600102]: Manali New Town Uphc 1                  , Availability:48  , Vaccine:COVISHIELD          
+26 . Hospital Name[600102]: Manali New Town Uphc 1                  , Availability:49  , Vaccine:COVISHIELD          
+27 . Hospital Name[600066]: Puzhal UPHC 1                           , Availability:20  , Vaccine:COVISHIELD          
+28 . Hospital Name[600066]: Puzhal UPHC 1                           , Availability:47  , Vaccine:COVISHIELD          
+29 . Hospital Name[600066]: Puzhal UPHC 1                           , Availability:47  , Vaccine:COVISHIELD          
+30 . Hospital Name[600060]: Madhavaram UPHC 1                       , Availability:40  , Vaccine:COVISHIELD          
+31 . Hospital Name[600060]: Madhavaram UPHC 1                       , Availability:44  , Vaccine:COVISHIELD          
+32 . Hospital Name[600060]: Madhavaram UPHC 1                       , Availability:47  , Vaccine:COVISHIELD          
+33 . Hospital Name[600060]: Kannabiran UPHC 1                       , Availability:24  , Vaccine:COVISHIELD          
+34 . Hospital Name[600060]: Kannabiran UPHC 1                       , Availability:45  , Vaccine:COVISHIELD          
+35 . Hospital Name[600099]: Lakshmipuram UPHC 1                     , Availability:1   , Vaccine:COVISHIELD          
+36 . Hospital Name[600099]: Lakshmipuram UPHC 1                     , Availability:26  , Vaccine:COVISHIELD          
+
+2021-05-15 18:22:39,082 - INFO - ****
+2021-05-15 18:22:41,222 - INFO - ****
+2021-05-15 18:22:41,222 - INFO - ('20/05/2021 [District:571]  Total Slots Available[Age:45]: ', '1984')
+2021-05-15 18:22:41,222 - INFO - 
+1  . Hospital Name[600094]: Periyar Nagar UPHC                      , Availability:8   , Vaccine:COVISHIELD          
+2  . Hospital Name[600014]: Mirsahibpet UCHC                        , Availability:7   , Vaccine:COVISHIELD          
+3  . Hospital Name[600050]: Padi UCHC - COVISHIELD                  , Availability:1   , Vaccine:COVISHIELD          
+4  . Hospital Name[600053]: Athipet UPHC                            , Availability:1   , Vaccine:COVISHIELD          
+5  . Hospital Name[600107]: Nerkundram II UPHC                      , Availability:2   , Vaccine:COVISHIELD          
+6  . Hospital Name[600068]: Manali UPHC 1                           , Availability:47  , Vaccine:COVISHIELD          
+7  . Hospital Name[600068]: Manali UPHC 1                           , Availability:50  , Vaccine:COVISHIELD          
+8  . Hospital Name[600068]: Manali UPHC 1                           , Availability:47  , Vaccine:COVISHIELD          
+9  . Hospital Name[600068]: Manali UPHC 1                           , Availability:48  , Vaccine:COVISHIELD          
+10 . Hospital Name[600068]: Manali UPHC 1                           , Availability:45  , Vaccine:COVISHIELD          
+11 . Hospital Name[600021]: RK NAGAR UCHC - HCW                     , Availability:30  , Vaccine:COVISHIELD          
+12 . Hospital Name[600021]: RK NAGAR UCHC - HCW                     , Availability:42  , Vaccine:COVISHIELD          
+13 . Hospital Name[600021]: RK NAGAR UCHC - HCW                     , Availability:44  , Vaccine:COVISHIELD          
+14 . Hospital Name[600021]: RK NAGAR UCHC - HCW                     , Availability:50  , Vaccine:COVISHIELD          
+15 . Hospital Name[600021]: RK NAGAR UCHC - HCW                     , Availability:50  , Vaccine:COVISHIELD          
+16 . Hospital Name[600021]: RK NAGAR UCHC - HCW                     , Availability:45  , Vaccine:COVISHIELD          
+17 . Hospital Name[600060]: Madavaram UCHC - HCW                    , Availability:7   , Vaccine:COVISHIELD          
+18 . Hospital Name[600060]: Madavaram UCHC - HCW                    , Availability:31  , Vaccine:COVISHIELD          
+19 . Hospital Name[600060]: Madavaram UCHC - HCW                    , Availability:48  , Vaccine:COVISHIELD          
+20 . Hospital Name[600060]: Madavaram UCHC - HCW                    , Availability:45  , Vaccine:COVISHIELD          
+21 . Hospital Name[600060]: Madavaram UCHC - HCW                    , Availability:46  , Vaccine:COVISHIELD          
+22 . Hospital Name[600060]: Madavaram UCHC - HCW                    , Availability:43  , Vaccine:COVISHIELD          
+23 . Hospital Name[600102]: Manali New Town Uphc 1                  , Availability:45  , Vaccine:COVISHIELD          
+24 . Hospital Name[600102]: Manali New Town Uphc 1                  , Availability:48  , Vaccine:COVISHIELD          
+25 . Hospital Name[600102]: Manali New Town Uphc 1                  , Availability:49  , Vaccine:COVISHIELD          
+26 . Hospital Name[600102]: Manali New Town Uphc 1                  , Availability:49  , Vaccine:COVISHIELD          
+27 . Hospital Name[600066]: Puzhal UPHC 1                           , Availability:20  , Vaccine:COVISHIELD          
+28 . Hospital Name[600066]: Puzhal UPHC 1                           , Availability:47  , Vaccine:COVISHIELD          
+29 . Hospital Name[600066]: Puzhal UPHC 1                           , Availability:47  , Vaccine:COVISHIELD          
+30 . Hospital Name[600066]: Puzhal UPHC 1                           , Availability:42  , Vaccine:COVISHIELD          
+31 . Hospital Name[600060]: Madhavaram UPHC 1                       , Availability:40  , Vaccine:COVISHIELD          
+32 . Hospital Name[600060]: Madhavaram UPHC 1                       , Availability:44  , Vaccine:COVISHIELD          
+33 . Hospital Name[600060]: Madhavaram UPHC 1                       , Availability:47  , Vaccine:COVISHIELD          
+34 . Hospital Name[600060]: Madhavaram UPHC 1                       , Availability:46  , Vaccine:COVISHIELD          
+35 . Hospital Name[600060]: Kannabiran UPHC 1                       , Availability:24  , Vaccine:COVISHIELD          
+36 . Hospital Name[600060]: Kannabiran UPHC 1                       , Availability:45  , Vaccine:COVISHIELD          
+37 . Hospital Name[600060]: Kannabiran UPHC 1                       , Availability:48  , Vaccine:COVISHIELD          
+38 . Hospital Name[600099]: Lakshmipuram UPHC 1                     , Availability:1   , Vaccine:COVISHIELD          
+39 . Hospital Name[600099]: Lakshmipuram UPHC 1                     , Availability:26  , Vaccine:COVISHIELD          
+40 . Hospital Name[600099]: Lakshmipuram UPHC 1                     , Availability:36  , Vaccine:COVISHIELD          
+41 . Hospital Name[600068]: Manali UCHC - HCW                       , Availability:50  , Vaccine:COVISHIELD          
+42 . Hospital Name[600021]: BRN Garden UPHC 1                       , Availability:23  , Vaccine:COVISHIELD          
+43 . Hospital Name[600081]: New Washermenpet UPHC 1                 , Availability:47  , Vaccine:COVISHIELD          
+44 . Hospital Name[600039]: Vyasarpadi UPHC 1                       , Availability:43  , Vaccine:COVISHIELD          
+45 . Hospital Name[600081]: Jeeva Nagar 1                           , Availability:45  , Vaccine:COVISHIELD          
+46 . Hospital Name[600081]: VOC Nagar 1                             , Availability:43  , Vaccine:COVISHIELD          
+47 . Hospital Name[600081]: VR Nagar Uphc 1                         , Availability:49  , Vaccine:COVISHIELD          
+48 . Hospital Name[600039]: Elango Nagar UPHC 1                     , Availability:35  , Vaccine:COVISHIELD          
+49 . Hospital Name[600118]: Vivekanantha Nagar Uphc 1               , Availability:39  , Vaccine:COVISHIELD          
+50 . Hospital Name[600081]: R.K Nagar UPHC 1                        , Availability:48  , Vaccine:COVISHIELD          
+51 . Hospital Name[600039]: Sathya Moorthy Nagar Uphc 1             , Availability:41  , Vaccine:COVISHIELD          
+52 . Hospital Name[600118]: Kodungaiyur Uphc 1                      , Availability:36  , Vaccine:COVISHIELD          
+53 . Hospital Name[600011]: Sharma Nagar 1                          , Availability:44  , Vaccine:COVISHIELD          
+
+2021-05-15 18:22:41,222 - INFO - ****
+2021-05-15 18:22:43,328 - INFO - ****
+2021-05-15 18:22:43,328 - INFO - ('21/05/2021 [District:571]  Total Slots Available[Age:45]: ', '2764')
+2021-05-15 18:22:43,328 - INFO - 
+1  . Hospital Name[600021]: RK NAGAR UCHC - HCW                     , Availability:30  , Vaccine:COVISHIELD          
+2  . Hospital Name[600021]: RK NAGAR UCHC - HCW                     , Availability:42  , Vaccine:COVISHIELD          
+3  . Hospital Name[600021]: RK NAGAR UCHC - HCW                     , Availability:44  , Vaccine:COVISHIELD          
+4  . Hospital Name[600021]: RK NAGAR UCHC - HCW                     , Availability:50  , Vaccine:COVISHIELD          
+5  . Hospital Name[600021]: RK NAGAR UCHC - HCW                     , Availability:50  , Vaccine:COVISHIELD          
+6  . Hospital Name[600021]: RK NAGAR UCHC - HCW                     , Availability:45  , Vaccine:COVISHIELD          
+7  . Hospital Name[600021]: RK NAGAR UCHC - HCW                     , Availability:48  , Vaccine:COVISHIELD          
+8  . Hospital Name[600068]: Manali UPHC 1                           , Availability:50  , Vaccine:COVISHIELD          
+9  . Hospital Name[600068]: Manali UPHC 1                           , Availability:47  , Vaccine:COVISHIELD          
+10 . Hospital Name[600068]: Manali UPHC 1                           , Availability:48  , Vaccine:COVISHIELD          
+11 . Hospital Name[600068]: Manali UPHC 1                           , Availability:45  , Vaccine:COVISHIELD          
+12 . Hospital Name[600060]: Madavaram UCHC - HCW                    , Availability:7   , Vaccine:COVISHIELD          
+13 . Hospital Name[600060]: Madavaram UCHC - HCW                    , Availability:31  , Vaccine:COVISHIELD          
+14 . Hospital Name[600060]: Madavaram UCHC - HCW                    , Availability:48  , Vaccine:COVISHIELD          
+15 . Hospital Name[600060]: Madavaram UCHC - HCW                    , Availability:45  , Vaccine:COVISHIELD          
+16 . Hospital Name[600060]: Madavaram UCHC - HCW                    , Availability:46  , Vaccine:COVISHIELD          
+17 . Hospital Name[600060]: Madavaram UCHC - HCW                    , Availability:43  , Vaccine:COVISHIELD          
+18 . Hospital Name[600060]: Madavaram UCHC - HCW                    , Availability:46  , Vaccine:COVISHIELD          
+19 . Hospital Name[600102]: Manali New Town Uphc 1                  , Availability:45  , Vaccine:COVISHIELD          
+20 . Hospital Name[600102]: Manali New Town Uphc 1                  , Availability:48  , Vaccine:COVISHIELD          
+21 . Hospital Name[600102]: Manali New Town Uphc 1                  , Availability:49  , Vaccine:COVISHIELD          
+22 . Hospital Name[600102]: Manali New Town Uphc 1                  , Availability:49  , Vaccine:COVISHIELD          
+23 . Hospital Name[600102]: Manali New Town Uphc 1                  , Availability:49  , Vaccine:COVISHIELD          
+24 . Hospital Name[600066]: Puzhal UPHC 1                           , Availability:20  , Vaccine:COVISHIELD          
+25 . Hospital Name[600066]: Puzhal UPHC 1                           , Availability:47  , Vaccine:COVISHIELD          
+26 . Hospital Name[600066]: Puzhal UPHC 1                           , Availability:47  , Vaccine:COVISHIELD          
+27 . Hospital Name[600066]: Puzhal UPHC 1                           , Availability:42  , Vaccine:COVISHIELD          
+28 . Hospital Name[600066]: Puzhal UPHC 1                           , Availability:43  , Vaccine:COVISHIELD          
+29 . Hospital Name[600060]: Madhavaram UPHC 1                       , Availability:40  , Vaccine:COVISHIELD          
+30 . Hospital Name[600060]: Madhavaram UPHC 1                       , Availability:44  , Vaccine:COVISHIELD          
+31 . Hospital Name[600060]: Madhavaram UPHC 1                       , Availability:47  , Vaccine:COVISHIELD          
+32 . Hospital Name[600060]: Madhavaram UPHC 1                       , Availability:46  , Vaccine:COVISHIELD          
+33 . Hospital Name[600060]: Madhavaram UPHC 1                       , Availability:47  , Vaccine:COVISHIELD          
+34 . Hospital Name[600060]: Kannabiran UPHC 1                       , Availability:24  , Vaccine:COVISHIELD          
+35 . Hospital Name[600060]: Kannabiran UPHC 1                       , Availability:45  , Vaccine:COVISHIELD          
+36 . Hospital Name[600060]: Kannabiran UPHC 1                       , Availability:48  , Vaccine:COVISHIELD          
+37 . Hospital Name[600060]: Kannabiran UPHC 1                       , Availability:46  , Vaccine:COVISHIELD          
+38 . Hospital Name[600099]: Lakshmipuram UPHC 1                     , Availability:1   , Vaccine:COVISHIELD          
+39 . Hospital Name[600099]: Lakshmipuram UPHC 1                     , Availability:26  , Vaccine:COVISHIELD          
+40 . Hospital Name[600099]: Lakshmipuram UPHC 1                     , Availability:36  , Vaccine:COVISHIELD          
+41 . Hospital Name[600099]: Lakshmipuram UPHC 1                     , Availability:31  , Vaccine:COVISHIELD          
+42 . Hospital Name[600068]: Manali UCHC - HCW                       , Availability:50  , Vaccine:COVISHIELD          
+43 . Hospital Name[600021]: BRN Garden UPHC 1                       , Availability:23  , Vaccine:COVISHIELD          
+44 . Hospital Name[600081]: New Washermenpet UPHC 1                 , Availability:47  , Vaccine:COVISHIELD          
+45 . Hospital Name[600081]: New Washermenpet UPHC 1                 , Availability:45  , Vaccine:COVISHIELD          
+46 . Hospital Name[600039]: Vyasarpadi UPHC 1                       , Availability:43  , Vaccine:COVISHIELD          
+47 . Hospital Name[600081]: Jeeva Nagar 1                           , Availability:45  , Vaccine:COVISHIELD          
+48 . Hospital Name[600081]: Jeeva Nagar 1                           , Availability:46  , Vaccine:COVISHIELD          
+49 . Hospital Name[600081]: VOC Nagar 1                             , Availability:43  , Vaccine:COVISHIELD          
+50 . Hospital Name[600081]: VOC Nagar 1                             , Availability:50  , Vaccine:COVISHIELD          
+51 . Hospital Name[600081]: VR Nagar Uphc 1                         , Availability:49  , Vaccine:COVISHIELD          
+52 . Hospital Name[600081]: VR Nagar Uphc 1                         , Availability:48  , Vaccine:COVISHIELD          
+53 . Hospital Name[600011]: Perambur Uphc 1                         , Availability:28  , Vaccine:COVISHIELD          
+54 . Hospital Name[600039]: Elango Nagar UPHC 1                     , Availability:35  , Vaccine:COVISHIELD          
+55 . Hospital Name[600039]: Elango Nagar UPHC 1                     , Availability:42  , Vaccine:COVISHIELD          
+56 . Hospital Name[600118]: Vivekanantha Nagar Uphc 1               , Availability:39  , Vaccine:COVISHIELD          
+57 . Hospital Name[600118]: Vivekanantha Nagar Uphc 1               , Availability:45  , Vaccine:COVISHIELD          
+58 . Hospital Name[600081]: R.K Nagar UPHC 1                        , Availability:48  , Vaccine:COVISHIELD          
+59 . Hospital Name[600081]: R.K Nagar UPHC 1                        , Availability:48  , Vaccine:COVISHIELD          
+60 . Hospital Name[600039]: Sathya Moorthy Nagar Uphc 1             , Availability:41  , Vaccine:COVISHIELD          
+61 . Hospital Name[600039]: Sathya Moorthy Nagar Uphc 1             , Availability:50  , Vaccine:COVISHIELD          
+62 . Hospital Name[600118]: Kodungaiyur Uphc 1                      , Availability:36  , Vaccine:COVISHIELD          
+63 . Hospital Name[600118]: Kodungaiyur Uphc 1                      , Availability:35  , Vaccine:COVISHIELD          
+64 . Hospital Name[600011]: Sharma Nagar 1                          , Availability:44  , Vaccine:COVISHIELD          
+65 . Hospital Name[600011]: Sharma Nagar 1                          , Availability:49  , Vaccine:COVISHIELD          
+66 . Hospital Name[600081]: Tondiarpet Uphc 1                       , Availability:50  , Vaccine:COVISHIELD          
+
+2021-05-15 18:22:43,328 - INFO - ****
