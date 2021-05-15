@@ -12,6 +12,20 @@
 # CHENNAI ID    => [571]
 # BANGALORE IDS => [265, 294, 276, 291, 277, 292]
 
+# SAMPLE OUTPUT - START
+# ****
+# ('16/05/2021 [District:571]  Total Slots Available[Age:45]: ', '830')
+#
+# 1  . Hospital Name[600078]: Nesapakkam UPHC                         , Availability:6   , Vaccine:COVISHIELD
+# 2  . Hospital Name[600021]: Korukkupet UPHC                         , Availability:8   , Vaccine:COVISHIELD
+# 3  . Hospital Name[600050]: Padi UCHC - COVISHIELD                  , Availability:1   , Vaccine:COVISHIELD
+# 4  . Hospital Name[600081]: Apollo Hospital Tondiarpet              , Availability:97  , Vaccine:COVISHIELD
+# 5  . Hospital Name[600034]: Pushpa Nagar UPHC                       , Availability:10  , Vaccine:COVISHIELD
+# 6  . Hospital Name[600034]: Pushpa Nagar UPHC                       , Availability:10  , Vaccine:COVISHIELD
+# 7  . Hospital Name[600034]: Pushpa Nagar UPHC                       , Availability:10  , Vaccine:COVISHIELD
+#****
+# SAMPLE OUTPUT - END
+
 # IMPORTS
 import urllib.request
 import json
@@ -24,10 +38,11 @@ from sys import platform
 # IMP: CHANGE BELOW VARIABLS AS PER USE
 # -------------------------------------
 district = ["571"] # Global variable.
-debug = True     # !debug will log to belowfile. Can be used for cronjobs
+debug = True       # !debug will log to belowfile. Can be used for cronjobs
 logfile = "vaccine.log" # Change if debug = False
-age = 18 # min_age 18
-#age = 45 #min_age 45
+age = 18    # min_age 18
+#age = 45   # min_age 45
+numDays = 7 # Gets output for 7 days startinf today
 # -------------------------------------
 # IMP: CHANGE ABOVE VARIABLS AS PER USE
 # -------------------------------------
@@ -137,6 +152,6 @@ if __name__ == '__main__':
     initLogger()
 
     for d in district:
-        for i in range(7):
+        for i in range(numDays):
             today = today + timedelta(days=i)
             getVaccineTimeslots(today, d)
