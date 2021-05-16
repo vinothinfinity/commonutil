@@ -43,6 +43,8 @@ logfile = "vaccine.log" # Change if debug = False
 age = 18    # min_age 18
 #age = 45   # min_age 45
 numDays = 7 # Gets output for 7 days startinf today
+prefVaccine = None  #Preffered Vaccine.
+#prefVaccine = "COVAXIN"
 # -------------------------------------
 # IMP: CHANGE ABOVE VARIABLS AS PER USE
 # -------------------------------------
@@ -140,9 +142,10 @@ def getVaccineTimeslots(today, districtID):
         hosp = center['name']
         for slot in center['sessions']:
             if slot["available_capacity"] >0 and slot['min_age_limit'] <=age:
-                total_avail = total_avail + slot['available_capacity']
-                index += 1
-                result_str = formatSlot(slot, index, result_str, hosp, center["pincode"])
+                if prefVaccine == None or slot["vaccine"] == "COVAXIN" : 
+                    total_avail = total_avail + slot['available_capacity']
+                    index += 1
+                    result_str = formatSlot(slot, index, result_str, hosp, center["pincode"])
 
     header = today.strftime('%d/%m/%Y [District:') + districtID + "]  Total Slots Available[Age:" + str(age) + "]: ", str(total_avail)
     printResult(header, total_avail, result_str)
