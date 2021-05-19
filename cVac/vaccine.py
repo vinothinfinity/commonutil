@@ -9,8 +9,8 @@
 # STATE ID      => https://cdn-api.co-vin.in/api/v2/admin/location/states
 # TN STATE ID   => 31 (USE STATE ID TO GET DISTRICT ID)
 # DISTRICT ID   => https://cdn-api.co-vin.in/api/v2/admin/location/districts/31
-# CHENNAI ID    => [571]
-# BANGALORE IDS => [265, 294, 276, 291, 277, 292]
+# CHENNAI ID    => ["571"]
+# BANGALORE IDS => ["265", "294", "276", "291", "277", "292"]
 
 # SAMPLE OUTPUT - START
 # ****
@@ -37,13 +37,13 @@ from sys import platform
 # -------------------------------------
 # IMP: CHANGE BELOW VARIABLS AS PER USE
 # -------------------------------------
-district = ["571"] # Global variable.
+district = ["571"] # ["265", "294", "276", "291", "277", "292"] # Global variable.
 debug = True       # !debug will log to belowfile. Can be used for cronjobs
-logfile = "vaccine.log" # Change if debug = False
+logfile = "/vacMe/commonutil/cVac/vaccine.log" # Change if debug = False
 age = 18    # min_age 18
 #age = 45   # min_age 45
 numDays = 7 # Gets output for 7 days startinf today
-prefVaccine = None  #Preffered Vaccine.
+prefVaccine = "AnyVaccine"  #Preffered Vaccine None/"COVISHIELD"/"COVAXIN"
 #prefVaccine = "COVAXIN"
 # -------------------------------------
 # IMP: CHANGE ABOVE VARIABLS AS PER USE
@@ -142,12 +142,12 @@ def getVaccineTimeslots(today, districtID):
         hosp = center['name']
         for slot in center['sessions']:
             if slot["available_capacity"] >0 and slot['min_age_limit'] <=age:
-                if prefVaccine == None or slot["vaccine"] == "COVAXIN" : 
+                if prefVaccine == "AnyVaccine" or slot["vaccine"] == prefVaccine :
                     total_avail = total_avail + slot['available_capacity']
                     index += 1
                     result_str = formatSlot(slot, index, result_str, hosp, center["pincode"])
 
-    header = today.strftime('%d/%m/%Y [District:') + districtID + "]  Total Slots Available[Age:" + str(age) + "]: ", str(total_avail)
+    header = today.strftime('%d/%m/%Y [District:') + districtID + "]  Total Slots Available[Age:" + str(age) + "][Vaccine:" + prefVaccine + "]: ", str(total_avail)
     printResult(header, total_avail, result_str)
 
 if __name__ == '__main__':
