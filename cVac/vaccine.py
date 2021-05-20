@@ -39,7 +39,7 @@ from sys import platform
 # -------------------------------------
 # IMP: CHANGE BELOW VARIABLS AS PER USE
 # -------------------------------------
-district = ["571"] # ["265", "294", "276", "291", "277", "292"] # Global variable.
+district = ["571"] # ["265", "294", "276", "291", "277", "292"] # ["554", "549"] Global variable.
 debug = True       # !debug will log to belowfile. Can be used for cronjobs
 logfile = "/cVac/vaccine.log" # Change if debug = False
 age = 18    # min_age 18
@@ -158,5 +158,5 @@ if __name__ == '__main__':
 
     for d in district:
         for i in range(numDays):
-            today = today + timedelta(days=i)
-            getVaccineTimeslots(today, d)
+            dayOfChoice = today + timedelta(days=i)
+            getVaccineTimeslots(dayOfChoice, d)
