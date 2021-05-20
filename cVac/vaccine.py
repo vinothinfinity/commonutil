@@ -54,7 +54,6 @@ prefVaccine = "AnyVaccine"  #Preffered Vaccine "AnyVaccine"/"COVISHIELD"/"COVAXI
 # GLOBALS
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
-dayOfChoice = None
 
 # INIT LOGGER
 def getLogger():
