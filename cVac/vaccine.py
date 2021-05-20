@@ -12,6 +12,8 @@
 # CHENNAI ID    => ["571"]
 # BANGALORE IDS => ["265", "294", "276", "291", "277", "292"]
 
+# for i in {1..10}; do python3 vaccine.py; sleep 20; done # run 10 times every 20 secs
+
 # SAMPLE OUTPUT - START
 # ****
 # ('16/05/2021 [District:571]  Total Slots Available[Age:45]: ', '830')
@@ -39,11 +41,11 @@ from sys import platform
 # -------------------------------------
 district = ["571"] # ["265", "294", "276", "291", "277", "292"] # Global variable.
 debug = True       # !debug will log to belowfile. Can be used for cronjobs
-logfile = "/vacMe/commonutil/cVac/vaccine.log" # Change if debug = False
+logfile = "/cVac/vaccine.log" # Change if debug = False
 age = 18    # min_age 18
 #age = 45   # min_age 45
 numDays = 7 # Gets output for 7 days startinf today
-prefVaccine = "AnyVaccine"  #Preffered Vaccine None/"COVISHIELD"/"COVAXIN"
+prefVaccine = "AnyVaccine"  #Preffered Vaccine "AnyVaccine"/"COVISHIELD"/"COVAXIN"
 #prefVaccine = "COVAXIN"
 # -------------------------------------
 # IMP: CHANGE ABOVE VARIABLS AS PER USE
