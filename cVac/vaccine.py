@@ -54,6 +54,7 @@ prefVaccine = "AnyVaccine"  #Preffered Vaccine "AnyVaccine"/"COVISHIELD"/"COVAXI
 # GLOBALS
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
+dayOfChoice = None
 
 # INIT LOGGER
 def getLogger():
@@ -75,7 +76,7 @@ def beepsound():
         winsound.Beep(frequency, duration)
     else:
         # currently tested for Mac OSXsss
-        beetStr = "echo Vaccine available on " + today.strftime('%d/%m/%Y') + " '\a';sleep 0.2;"
+        beetStr = "echo Vaccine available on " + dayOfChoice.strftime('%d/%m/%Y') + " '\a';sleep 0.2;"
         beep =  lambda x: os.system(beetStr  * x)
         beep(10)
 
