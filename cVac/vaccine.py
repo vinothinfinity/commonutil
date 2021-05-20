@@ -68,7 +68,7 @@ def initLogger():
         getLogger()
 
 # METHOD TO CREATE BEEP SOUND
-def beepsound():
+def beepsound(today):
     if platform == "win32":
         import winsound
         frequency = 2500  # Set Frequency To 2500 Hertz
@@ -76,41 +76,41 @@ def beepsound():
         winsound.Beep(frequency, duration)
     else:
         # currently tested for Mac OSXsss
-        beetStr = "echo Vaccine available on " + dayOfChoice.strftime('%d/%m/%Y') + " '\a';sleep 0.2;"
+        beetStr = "echo Vaccine available on " + today.strftime('%d/%m/%Y') + " '\a';sleep 0.2;"
         beep =  lambda x: os.system(beetStr  * x)
         beep(10)
 
 # RESULT TO LOGGER FILE
-def resultLogger(header, total_avail, result_str):
+def resultLogger(header, today, total_avail, result_str):
     if total_avail != 0:
         logger.info("****")
         logger.info(header)
         if result_str != "":
             logger.info(result_str)
             logger.info("****")
-            beepsound()
+            beepsound(today)
     else:
         logger.info(header)
         logger.handlers[0].flush()
         return 
 
 # RESULT TO CONSOLE
-def resultConsole(header, total_avail, result_str):
+def resultConsole(header, today, total_avail, result_str):
     if total_avail != 0:
         print("****")
         print(header)
         if result_str != "":
             print(result_str)
             print("****")
-            beepsound()
+            beepsound(today)
     else:
         print(header)
 
-def printResult(header, total_avail=0, result_str=''):
+def printResult(header, today, total_avail=0, result_str=''):
     if False == debug:
-        resultLogger(header, total_avail, result_str)
+        resultLogger(header, today, total_avail, result_str)
     else:
-        resultConsole(header, total_avail, result_str)
+        resultConsole(header, today, total_avail, result_str)
 
 
 # CUSTOM PRINT FOR EVERY AVAILABLE SLOT
@@ -151,7 +151,7 @@ def getVaccineTimeslots(today, districtID):
                     result_str = formatSlot(slot, index, result_str, hosp, center["pincode"])
 
     header = today.strftime('%d/%m/%Y [District:') + districtID + "]  Total Slots Available[Age:" + str(age) + "][Vaccine:" + prefVaccine + "]: ", str(total_avail)
-    printResult(header, total_avail, result_str)
+    printResult(header, today, total_avail, result_str)
 
 if __name__ == '__main__':
     today = datetime.today()
