@@ -44,7 +44,7 @@ debug = True       # !debug will log to belowfile. Can be used for cronjobs
 logfile = "/cVac/vaccine.log" # Change if debug = False
 age = 18    # min_age 18
 #age = 45   # min_age 45
-numDays = 7 # Gets output for 7 days startinf today
+numDays = 14 # Gets output for 7 days starting today
 prefVaccine = "AnyVaccine"  #Preffered Vaccine "AnyVaccine"/"COVISHIELD"/"COVAXIN"
 #prefVaccine = "COVAXIN"
 # -------------------------------------
