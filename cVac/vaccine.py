@@ -47,6 +47,7 @@ age = 18    # min_age 18
 numDays = 7 # Gets output for 7 days starting today
 prefVaccine = "AnyVaccine"  #Preffered Vaccine "AnyVaccine"/"COVISHIELD"/"COVAXIN"
 #prefVaccine = "COVAXIN"
+doseNum = "Dose1" #"Dose1", "Dose2"
 # -------------------------------------
 # IMP: CHANGE ABOVE VARIABLS AS PER USE
 # -------------------------------------
@@ -54,6 +55,8 @@ prefVaccine = "AnyVaccine"  #Preffered Vaccine "AnyVaccine"/"COVISHIELD"/"COVAXI
 # GLOBALS
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
+doseEnum = {"Dose1" : "available_capacity_dose1", "Dose2" : "available_capacity_dose2"}
+doseAvail = doseEnum[doseNum]
 
 # INIT LOGGER
 def getLogger():
@@ -115,7 +118,7 @@ def printResult(header, today, total_avail=0, result_str=''):
 # CUSTOM PRINT FOR EVERY AVAILABLE SLOT
 def formatSlot(slot, index, result_str, hosp, pincode):
     result_str += str(index).ljust(3) + ". Hospital Name["+ str(pincode) + "]: " + hosp.ljust(40)
-    result_str += ", Availability:" + str(slot["available_capacity"]).ljust(4)
+    result_str += ", Availability:" + str(slot[doseAvail]).ljust(4)
     result_str += ", Vaccine:" +  slot["vaccine"].ljust(20) + "\n"
     return result_str
 
@@ -143,13 +146,13 @@ def getVaccineTimeslots(today, districtID):
     for center in data['centers']:
         hosp = center['name']
         for slot in center['sessions']:
-            if slot["available_capacity"] >0 and slot['min_age_limit'] <=age:
+            if slot[doseAvail] >0 and slot['min_age_limit'] <=age:
                 if prefVaccine == "AnyVaccine" or slot["vaccine"] == prefVaccine :
-                    total_avail = total_avail + slot['available_capacity']
+                    total_avail = total_avail + slot[doseAvail]
                     index += 1
                     result_str = formatSlot(slot, index, result_str, hosp, center["pincode"])
 
-    header = today.strftime('%d/%m/%Y [District:') + districtID + "]  Total Slots Available[Age:" + str(age) + "][Vaccine:" + prefVaccine + "]: ", str(total_avail)
+    header = today.strftime('%d/%m/%Y [District:') + districtID + "/" + doseNum + "]  Total Slots Available[Age:" + str(age) + "][Vaccine:" + prefVaccine + "]: ", str(total_avail)
     printResult(header, today, total_avail, result_str)
 
 if __name__ == '__main__':
