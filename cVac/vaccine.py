@@ -44,10 +44,11 @@ debug = True       # !debug will log to belowfile. Can be used for cronjobs
 logfile = "/cVac/vaccine.log" # Change if debug = False
 age = 18    # min_age 18
 #age = 45   # min_age 45
-numDays = 7 # Gets output for 7 days starting today
+numDays = 7 # Gets output for N days starting today
 prefVaccine = "AnyVaccine"  #Preffered Vaccine "AnyVaccine"/"COVISHIELD"/"COVAXIN"
 #prefVaccine = "COVAXIN"
 doseNum = "Dose1" #"Dose1", "Dose2"
+minAvail = 1
 # -------------------------------------
 # IMP: CHANGE ABOVE VARIABLS AS PER USE
 # -------------------------------------
@@ -139,14 +140,14 @@ def getVaccineTimeslots(today, districtID):
     data = getQueryResult(date, districtID)
     if data == None:
         header = today.strftime('%d/%m/%Y [UnableToQuery]') 
-        printResult(header)
+        printResult(header, today)
         return
     result_str, index, total_avail  = "\n", 0, 0
     total_avail=0
     for center in data['centers']:
         hosp = center['name']
         for slot in center['sessions']:
-            if slot[doseAvail] >0 and slot['min_age_limit'] <=age:
+            if slot[doseAvail] >= minAvail and slot['min_age_limit'] <=age:
                 if prefVaccine == "AnyVaccine" or slot["vaccine"] == prefVaccine :
                     total_avail = total_avail + slot[doseAvail]
                     index += 1
