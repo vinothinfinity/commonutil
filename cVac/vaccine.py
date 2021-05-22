@@ -122,7 +122,7 @@ def formatSlot(slot, index, result_str, hosp, pincode):
 
 def getQueryResult(date, districtID):
     reg_url = "https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/calendarByDistrict?district_id=" + districtID + "&date=" + date
-    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.3"}
+    headers = {'Cache-Control': 'no-cache', "User-Agent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.3"}
     req = urllib.request.Request(url=reg_url, headers=headers)
     try:
         data = json.loads(urllib.request.urlopen(req).read()) 
